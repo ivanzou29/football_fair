@@ -1,0 +1,93 @@
+,team_id,name,country,league_id
+0,33,Manchester United,England,39
+1,34,Newcastle,England,39
+2,35,Bournemouth,England,39
+3,36,Fulham,England,39
+4,39,Wolves,England,39
+5,40,Liverpool,England,39
+6,41,Southampton,England,39
+7,42,Arsenal,England,39
+8,45,Everton,England,39
+9,46,Leicester,England,39
+10,47,Tottenham,England,39
+11,48,West Ham,England,39
+12,49,Chelsea,England,39
+13,50,Manchester City,England,39
+14,51,Brighton,England,39
+15,52,Crystal Palace,England,39
+16,55,Brentford,England,39
+17,57,Ipswich,England,39
+18,65,Nottingham Forest,England,39
+19,66,Aston Villa,England,39
+20,157,Bayern München,Germany,78
+21,160,SC Freiburg,Germany,78
+22,161,VfL Wolfsburg,Germany,78
+23,162,Werder Bremen,Germany,78
+24,163,Borussia Mönchengladbach,Germany,78
+25,164,FSV Mainz 05,Germany,78
+26,165,Borussia Dortmund,Germany,78
+27,167,1899 Hoffenheim,Germany,78
+28,168,Bayer Leverkusen,Germany,78
+29,169,Eintracht Frankfurt,Germany,78
+30,170,FC Augsburg,Germany,78
+31,172,VfB Stuttgart,Germany,78
+32,173,RB Leipzig,Germany,78
+33,176,VfL Bochum,Germany,78
+34,180,1. FC Heidenheim,Germany,78
+35,182,Union Berlin,Germany,78
+36,186,FC St. Pauli,Germany,78
+37,191,Holstein Kiel,Germany,78
+38,259,Lommel United,Belgium,145
+39,600,Zulte Waregem,Belgium,145
+40,738,Waasland-beveren,Belgium,145
+41,739,AS Eupen,Belgium,145
+42,5805,Francs Borains,Belgium,145
+43,5902,RAAL La Louvière,Belgium,145
+44,6214,Deinze,Belgium,145
+45,6219,Lierse Kempenzonen,Belgium,145
+46,6220,Liège,Belgium,145
+47,6222,Patro Eisden,Belgium,145
+48,6224,RWDM,Belgium,145
+49,10244,Seraing United,Belgium,145
+50,14128,Lokeren-Temse,Belgium,145
+51,14130,Club Brugge II,Belgium,145
+52,19045,KRC Genk II,Belgium,145
+53,19046,RSC Anderlecht II,Belgium,145
+54,529,Barcelona,Spain,140
+55,530,Atletico Madrid,Spain,140
+56,531,Athletic Club,Spain,140
+57,532,Valencia,Spain,140
+58,533,Villarreal,Spain,140
+59,534,Las Palmas,Spain,140
+60,536,Sevilla,Spain,140
+61,537,Leganes,Spain,140
+62,538,Celta Vigo,Spain,140
+63,540,Espanyol,Spain,140
+64,541,Real Madrid,Spain,140
+65,542,Alaves,Spain,140
+66,543,Real Betis,Spain,140
+67,546,Getafe,Spain,140
+68,547,Girona,Spain,140
+69,548,Real Sociedad,Spain,140
+70,720,Valladolid,Spain,140
+71,727,Osasuna,Spain,140
+72,728,Rayo Vallecano,Spain,140
+73,798,Mallorca,Spain,140
+74,77,Angers,France,61
+75,79,Lille,France,61
+76,80,Lyon,France,61
+77,81,Marseille,France,61
+78,82,Montpellier,France,61
+79,83,Nantes,France,61
+80,84,Nice,France,61
+81,85,Paris Saint Germain,France,61
+82,91,Monaco,France,61
+83,93,Reims,France,61
+84,94,Rennes,France,61
+85,95,Strasbourg,France,61
+86,96,Toulouse,France,61
+87,106,Stade Brestois 29,France,61
+88,108,Auxerre,France,61
+89,111,LE Havre,France,61
+90,116,Lens,France,61
+91,1063,Saint Etienne,France,61
